@@ -57,26 +57,17 @@ def button_equal():
         e.insert(0, f_num / float(second_number))
 
 # displaying all number buttons
-myButton1 = Button(root, text="1",padx=28, pady=25, command = lambda: button_click(1))
-myButton1.grid(row=3, column=0)
-myButton2 = Button(root, text="2",padx=28, pady=25, command = lambda: button_click(2))
-myButton2.grid(row=3, column=1)
-myButton3 = Button(root, text="3",padx=28, pady=25, command = lambda: button_click(3))
-myButton3.grid(row=3, column=2)
-myButton4 = Button(root, text="4",padx=28, pady=25, command = lambda: button_click(4))
-myButton4.grid(row=2, column=0)
-myButton5 = Button(root, text="5",padx=28, pady=25, command = lambda: button_click(5))
-myButton5.grid(row=2, column=1)
-myButton6 = Button(root, text="6",padx=28, pady=25, command = lambda: button_click(6))
-myButton6.grid(row=2, column=2)
-myButton7 = Button(root, text="7",padx=28, pady=25, command = lambda: button_click(7))
-myButton7.grid(row=1, column=0)
-myButton8 = Button(root, text="8",padx=28, pady=25, command = lambda: button_click(8))
-myButton8.grid(row=1, column=1)
-myButton9 = Button(root, text="9",padx=28, pady=25, command = lambda: button_click(9))
-myButton9.grid(row=1, column=2)
-myButton9 = Button(root, text="0",padx=28, pady=25, command = lambda: button_click(0))
-myButton9.grid(row=4, column=0)
+# displaying all number buttons
+
+val = 1
+for i in range(3,0,-1):
+    for j in range(3):
+        button = Button(root, text = val, padx = 28, pady = 25, command = lambda x = val: button_click(x))
+        button.grid(row=i, column = j)
+        val += 1
+
+button0 = Button(root, text="0",padx=28, pady=25, command = lambda: button_click(0))
+button0.grid(row=4, column=0)
 
 #adding all symbol buttons
 

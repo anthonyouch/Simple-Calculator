@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SimpleCalculator.iml" filepath="$PROJECT_DIR$/.idea/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SudokuSolver/.idea/SudokuSolver.iml" filepath="$PROJECT_DIR$/../SudokuSolver/.idea/SudokuSolver.iml" />
     </modules>
   </component>
 </project>
