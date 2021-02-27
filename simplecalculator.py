@@ -57,7 +57,6 @@ def button_equal():
         e.insert(0, f_num / float(second_number))
 
 # displaying all number buttons
-# displaying all number buttons
 
 val = 1
 for i in range(3,0,-1):
