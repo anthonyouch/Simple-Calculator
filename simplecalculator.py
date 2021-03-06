@@ -8,6 +8,7 @@ e.grid(row=0, column=0, columnspan=4, pady = 10, padx = 10, ipady = 15, ipadx = 
 
 equation = ''
 
+
 def button_click(char):
     global equation
     if len(equation) == 0 and char not in range(0,10):
@@ -22,7 +23,7 @@ def button_click(char):
             equationline.set("Divided by Zero!")
             equation = ''
         except:
-            equationline.set("invalid equation")
+            equationline.set("Invalid equation")
             equation = ''
 
     elif char == "c":
@@ -42,7 +43,7 @@ values = [[7,8,9,'+'], [4,5,6,'−'], [1,2,3,'×'], ['c', '0', '=', '÷']]
 for i in range(len(values)):
     for j in range(4):
         char =  values[i][j]
-        button = Button(root, text = char , font = ("Arial", 20), command = lambda x = char: button_click(x))
+        button = Button(root, text=char, width = 2,  font = ("Arial", 20), command = lambda x = char: button_click(x))
         button.grid(row = i+1, column = j, ipadx = 30, ipady = 20, padx=2,pady=2)
 
 root.mainloop()
