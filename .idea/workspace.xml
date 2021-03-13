@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6233ae-6363-472a-8c69-8c2bfc565cd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/SimpleCalculator.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SimpleCalculator.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplecalculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../PathFindingVisualiser" />
   </component>
   <component name="ProjectId" id="1p0OuDphyVTkZ3LKfZqQMMomts5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -30,10 +32,31 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SudokuSolver" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pySudoku-master" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.simplecalculator">
+  <component name="RunManager" selected="Python.PathFinding">
+    <configuration name="PathFinding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PathFindingVisualiser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../PathFindingVisualiser" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../PathFindingVisualiser/PathFinding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="SudokuSolver" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="SudokuSolver" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,19 +120,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="simplecalculatorv2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="SimpleCalculator" />
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SudokuSolver" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../SudokuSolver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simplecalculatorv2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../SudokuSolver/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,10 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.simplecalculator" />
+        <item itemvalue="Python.PathFinding" />
         <item itemvalue="Python.gui" />
+        <item itemvalue="Python.simplecalculator" />
         <item itemvalue="Python.SudokuSolver" />
-        <item itemvalue="Python.simplecalculatorv2" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -153,49 +177,53 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="679" y="128" key="#gui" timestamp="1615003954807">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="128" key="#gui/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615003954807" />
     <state x="674" y="148" key="#simplecalculator" timestamp="1614324509242">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="148" key="#simplecalculator/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614324509242" />
-    <state x="735" y="276" key="FileChooserDialogImpl" timestamp="1614417539000">
+    <state x="735" y="276" key="FileChooserDialogImpl" timestamp="1615118908445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="735" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614417539000" />
-    <state width="1899" height="293" key="GridCell.Tab.0.bottom" timestamp="1614998611282">
+    <state x="735" y="276" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615118908445" />
+    <state width="1899" height="293" key="GridCell.Tab.0.bottom" timestamp="1615340592398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614998611282" />
-    <state width="1899" height="293" key="GridCell.Tab.0.center" timestamp="1614998611282">
+    <state width="1899" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615340592398" />
+    <state width="1899" height="293" key="GridCell.Tab.0.center" timestamp="1615340592398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614998611282" />
-    <state width="1899" height="293" key="GridCell.Tab.0.left" timestamp="1614998611282">
+    <state width="1899" height="293" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615340592398" />
+    <state width="1899" height="293" key="GridCell.Tab.0.left" timestamp="1615340592398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614998611282" />
-    <state width="1899" height="293" key="GridCell.Tab.0.right" timestamp="1614998611282">
+    <state width="1899" height="293" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615340592398" />
+    <state width="1899" height="293" key="GridCell.Tab.0.right" timestamp="1615340592398">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="293" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614998611282" />
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1614856379889">
+    <state width="1899" height="293" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615340592398" />
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom" timestamp="1615286422986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614856379889" />
-    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1614856379889">
+    <state width="1899" height="347" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615286422986" />
+    <state width="1899" height="347" key="GridCell.Tab.1.center" timestamp="1615286422986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614856379889" />
-    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1614856379889">
+    <state width="1899" height="347" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615286422986" />
+    <state width="1899" height="347" key="GridCell.Tab.1.left" timestamp="1615286422986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614856379889" />
-    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1614856379889">
+    <state width="1899" height="347" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615286422986" />
+    <state width="1899" height="347" key="GridCell.Tab.1.right" timestamp="1615286422986">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614856379889" />
-    <state x="618" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1614843920728">
+    <state width="1899" height="347" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615286422986" />
+    <state x="618" y="232" width="672" height="678" key="search.everywhere.popup" timestamp="1615271530609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="618" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1614843920728" />
+    <state x="618" y="232" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.-189.1920.1040@0.0.1920.1040" timestamp="1615271530609" />
   </component>
 </project>

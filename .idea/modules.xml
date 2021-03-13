@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../PathFinding/.idea/PathFinding.iml" filepath="$PROJECT_DIR$/../PathFinding/.idea/PathFinding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PathFindingVisualiser/.idea/PathFindingVisualiser.iml" filepath="$PROJECT_DIR$/../PathFindingVisualiser/.idea/PathFindingVisualiser.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/SimpleCalculator.iml" filepath="$PROJECT_DIR$/.idea/SimpleCalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sudoku-Solver-master/.idea/Sudoku-Solver-master.iml" filepath="$PROJECT_DIR$/../Sudoku-Solver-master/.idea/Sudoku-Solver-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/../SudokuSolver/.idea/SudokuSolver.iml" filepath="$PROJECT_DIR$/../SudokuSolver/.idea/SudokuSolver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pySudoku-master/.idea/pySudoku-master.iml" filepath="$PROJECT_DIR$/../pySudoku-master/.idea/pySudoku-master.iml" />
     </modules>
   </component>
 </project>

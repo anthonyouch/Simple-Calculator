@@ -5,5 +5,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="SudokuSolver" />
+    <orderEntry type="module" module-name="PathFinding" />
+    <orderEntry type="module" module-name="PathFindingVisualiser" />
+    <orderEntry type="module" module-name="Sudoku-Solver-master" />
+    <orderEntry type="module" module-name="SudokuSolver" />
+    <orderEntry type="module" module-name="pySudoku-master" />
   </component>
 </module>
